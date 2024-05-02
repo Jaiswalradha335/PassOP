@@ -18,12 +18,11 @@ Getting Started
 To run this application locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/yourname/password-manager.git
 Navigate to the project directory:
 
 cd password-manager
 Install dependencies:
-shell
 
 npm install
 Start the application:
